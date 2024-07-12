@@ -116,7 +116,8 @@ here is the code after opening it on the server
           ![Screenshot 2024-07-12 173018](https://github.com/user-attachments/assets/69b0537f-8d75-42c9-ab8f-910043370b2f)
           and when i use XAMPP it will look like this 
 ![Screenshot 2024-07-12 173315](https://github.com/user-attachments/assets/1f70cf64-b9c0-4afd-833f-fa169575f75e)
-you will be conected to the database using xampp![Screenshot 2024-07-12 173500](https://github.com/user-attachments/assets/d2c2d233-7f1c-496a-b7b9-37294552f82a)
+you will be conected to the database using xampp
+![Screenshot 2024-07-12 173500](https://github.com/user-attachments/assets/d2c2d233-7f1c-496a-b7b9-37294552f82a)
 
 this is my data it has on table named user choices
 ![Screenshot 2024-07-12 173609](https://github.com/user-attachments/assets/bdfabbce-e92d-48fd-ae11-357ee3b7358d)
